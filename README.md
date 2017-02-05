@@ -1,5 +1,6 @@
 # flying-circus-game
 #beginner code for random number game
+#not running in python 2.7.8
 
 import random
 random_number = random.randint(0,10)
